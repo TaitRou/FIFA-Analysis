@@ -1,5 +1,5 @@
 # FIFA-Analysis
-Find the needle in a haystack with my excel based query system on 18,000+ players!
+<I>Find the needle in a haystack with my excel based query system on 18,000+ players!</I>
 
 FIFA Player Analysis
 
@@ -9,7 +9,7 @@ Built an Excel-based query tool to quickly identify suitable FIFA players for tr
 
  - The goal was to remove manual filtering and make player scouting faster and more structured using key constraints like budget, wages, position, and potential.
 
-What it does:
+<B>What it does:</B>
 
  - Users input basic transfer criteria:
 
@@ -24,10 +24,10 @@ What it does:
 
    The model filters the dataset and returns only players that match all conditions, making it easier to build shortlists in seconds.
 
-Why it matters:
+<B>Why it matters:</B>
  - Instead of manually searching thousands of rows, this tool turns player scouting into a structured, query-style process—similar to how you’d filter data in SQL or a BI tool.
 
-Skills demonstrated:
+<B>Skills demonstrated:</B>
 
  - Data filtering and transformation in Excel
 
