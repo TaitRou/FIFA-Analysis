@@ -12,13 +12,13 @@ Built an Excel-based query tool to quickly identify suitable FIFA players for tr
 
  - Users input basic transfer criteria:
 
-   -Position
+   - Position
 
-   -Transfer budget (€)
+   - Transfer budget (€)
 
-   -Wage budget (€)
+   - Wage budget (€)
 
-   -Minimum potential
+   - Minimum potential
 
 
    The model filters the dataset and returns only players that match all conditions, making it easier to build shortlists in seconds.
