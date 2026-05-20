@@ -1,7 +1,7 @@
 # FIFA-Analysis
-Find the needle in a haystack with my excel based query system on 18,000+ players
+Find the needle in a haystack with my excel based query system on 18,000+ players!
 
-⚽ FIFA Player Transfer Query System
+⚽ FIFA Player Analysis
 Overview:
 
 Built an Excel-based query tool to quickly identify suitable FIFA players for transfer targets across a dataset of 18,000+ players.
